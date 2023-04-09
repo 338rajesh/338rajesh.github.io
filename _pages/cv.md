@@ -7,57 +7,40 @@ redirect_from:
   - /resume
 ---
 
-Will update the resume soon!
+[Latest resume (1 page)](/files/resume_09042023.pdf)
+
+Education
+=========
+
+* **2018-2023** Ph.D in aerospace structures, Indian Institute of Science.
+  * multi-physical properties prediction of fibre-reinforced composites using deep learning
+* **2012-2014** M.Tech. in Machine Design, IIT Bombay.
+* **2008-2012** B.Tech. in Mechanical Engineering, JNTUH College of Engineering-Hyderabad.
+
+
+Employment
+==========
+
+* **2015-2016** Assistant Professor at Bapatla Engineering College, India
+* **2014-2015** Post Graduate Engineer Trainee at Mahindra Research Valley, Mahindra & Mahindra, Chennai, India.
+
+
+Publications
+============
+
+1. (Under Review) **Rajesh Nakka**, Dineshkumar Harursampath, and Sathiskumar A. Ponnusami. “A generalised deep learning-based surrogate model for homogenisation utilising material property encoding and physics-based bounds”. In: Scientific Reports (Apr. 2023).
+1. (Under Review) **Rajesh Nakka**, A. Phanendra Kumar, Dineshkumar Harursampath and Sathiskumar A. Ponnusami. “Influence of fibre cross-section profile on the multi-physical properties of uni-directional composites”. In: Composite Structures (Apr. 2023)
+1. **Rajesh Nakka** and Dineshkumar Harursampath and Mehtab Pathan and Sathiskumar A. Ponnusami. “A computationally efficient approach for generating RVEs of various inclusion/fibre shapes”. In: Composite Structures 291 (July 2022), p. 115560. [doi:10.1016/j.compstruct.2022.115560](https://doi.org/10.1016/j.compstruct.2022.115560).
+
+
 
 <!-- 
 {% include base_path %}
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
  -->
