@@ -1,11 +1,28 @@
 ---
+layout: about
+title: about
 permalink: /
-title: "Home"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: 
+
+profile:
+  align: centre
+  image: prof_pic.jpg
+  image_circular: true # crops the image to make it circular
+  address: >
+    <p>PhD student</p>
+    <p>AE 111, NMCAD lab, IISc Bangalore, India</p>
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Will be updating it soon! Please check the github page for the projects I am working on.
+
+Hello! I am in the concluding stage of PhD program at IISc Banagalore, India. My thesis work briefly involves predicting the material properties of uni-directional composite materials using deep learning methods.
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
