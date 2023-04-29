@@ -13,8 +13,8 @@ cv_pdf: resume_09042023.pdf
 ### **Education**
 
 
+  <!-- * multi-physical properties prediction of fibre-reinforced composites using deep learning -->
 * **2018-2023** Ph.D in aerospace structures, Indian Institute of Science.
-  * multi-physical properties prediction of fibre-reinforced composites using deep learning
 * **2012-2014** M.Tech. in Machine Design, IIT Bombay.
 * **2008-2012** B.Tech. in Mechanical Engineering, JNTUH College of Engineering-Hyderabad.
 

@@ -24,14 +24,14 @@ Hello! I am in the concluding stage of PhD program at IISc Banagalore, India. My
 
 ### **Education**
 
-* 2018- **Ph.D, Aerospace Structures, Indian Institute of Science**.
-  * multi-physical properties prediction of fibre-reinforced composites using deep learning
+* 2018 - present **Ph.D, Aerospace Structures, Indian Institute of Science**.
+  <!-- * multi-physical properties prediction of fibre-reinforced composites using deep learning -->
 * 2012-2014 **M.Tech. in Machine Design, IIT Bombay** .
 * 2008-2012 **B.Tech. in Mechanical Engineering, JNTUH College of Engineering-Hyderabad**.
 
 ### **Employment**
 
-* 2015-2016 Assistant Professor at Bapatla Engineering College, India
+* 2015-2017 Assistant Professor at Bapatla Engineering College, India
 * 2014-2015 Post Graduate Engineer Trainee at Mahindra Research Valley, Mahindra & Mahindra, Chennai, India.
 
 Please check my [**latest resume here**](/assets/pdf/resume_09042023.pdf)  (1 page).
