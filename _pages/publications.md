@@ -10,6 +10,8 @@ nav_order: 1
 
 ***Will update on my current state of research and future directions.***
 
+
+### **Publications**
 <!-- _pages/publications.md -->
 <div class="publications">
 

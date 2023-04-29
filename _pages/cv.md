@@ -1,13 +1,13 @@
 ---
 layout: cv
 permalink: /cv/
-title: 
-nav: true
+title: Resume
+nav: false
 nav_order: 4
 cv_pdf: resume_09042023.pdf
 ---
 
-[Latest resume (1 page)](/assets/pdf/resume_09042023.pdf)
+<!-- [Latest resume (1 page)](/assets/pdf/resume_09042023.pdf) -->
 
 
 ### **Education**
