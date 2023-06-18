@@ -2,7 +2,11 @@ github_users:
   - 338rajesh
 
 github_repos:
+  - 338rajesh/mpi-cnn
+  - 338rajesh/gmsh.jl
   - 338rajesh/MakeAbaqusInputFile.jl
+  - 338rajesh/my-code-snippets
+  
   # - twbs/bootstrap
   # - jekyll/jekyll
   # - jquery/jquery

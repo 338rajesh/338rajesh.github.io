@@ -1,14 +1,12 @@
 ---
 layout: page
 permalink: /publications/
-title: research
+title: Research
 description: 
 years: [2023, 2022]
 nav: true
 nav_order: 1
 ---
-
-***Will update on my current state of research and future directions.***
 
 
 ### **Publications**
