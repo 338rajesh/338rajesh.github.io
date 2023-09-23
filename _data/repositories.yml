@@ -6,6 +6,11 @@ github_repos:
   - 338rajesh/gmsh.jl
   - 338rajesh/MakeAbaqusInputFile.jl
   - 338rajesh/my-code-snippets
+  - 338rajesh/ucplots
+  - 338rajesh/FEMUCH.jl
+  - 338rajesh/UnitCellModelling.jl
+  - 338rajesh/geometry_box
+  - 338rajesh/FEPreProcessing.jl
   
   # - twbs/bootstrap
   # - jekyll/jekyll
@@ -13,3 +18,4 @@ github_repos:
   # - FortAwesome/Font-Awesome
   # - jpswalsh/academicons
   # - mathjax/MathJax
+ 

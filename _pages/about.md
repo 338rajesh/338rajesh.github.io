@@ -19,29 +19,40 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-Hello! I am in the concluding stage of PhD program at Indian Institute of Science, Banagalore, India. I am actively **looking for post-doctoral research position** in mechanics related fields. I enjoy coding and solving problems.
+**Hello!**
 
-*In my PhD thesis*, 
-+ A method for universal-overlap detection and removal between arbitray shapes is developed
-+ Influence of fibre cross-sectional profile on multi-physical properties is studied
-+ A generalised surrogate deep learning model based is developed for predicting elastic properties of fibre reinforced composites, with fibre volume fractions and material systems spanning end-to-end practical range.
+ I am in the concluding stage of PhD (thesis under review) at Indian Institute of Science, Banagalore, India. At present, I am working on a short project (developing twin-screw compressor profiles using generative AI) with City, University of London, which is expected to be completed by Dec'23. 
+ I am **actively looking for a post-doctoral research position in computational mechanics field**.
+
+<br/><br/>
+In my PhD thesis, titled<br/> 
+"**Prediction of multi-physical properties of fibre-reinforced composites using deep learning**", 
+
++ I have <ins>*developed an universal-overlap detection and removal scheme*</ins> between arbitray shapes is developed, as a part of generating RVEs with arbitrary inclusion shapes. In this part of work, I have learnt and used used geometry skills, in addition to the statistical analysis and micro-mechanical aspects.
+
++ I have <ins>*developed a computationally efficient in-house homogenisation tool for multi-physical properties evaluation*</ins>, in Julia language, using Variational Asymptotic Method and FEA based homogenisation tool along with my fellow PhD student A. Phaneendra.
+
++ I have *<ins>studied the influence of fibre cross-sectional profile on multi-physical properties</ins>* (thermal, mechanical and piezo-electrical) of uni-directional composite materials, utilising the in-house homogenisation tool. 
+
++ I have *<ins>developed a generalised surrogate deep learning CNN model</ins>* for predicting thermal and thermo-mechanical properties of fibre reinforced composites, with *fibre volume fractions and material systems spanning end-to-end practical range*.
 
 ### **Research Interests**
 
+* Computational mechanics
 * Micromechanics
 * Scientific Machine Learning
-* Geometry
 
 ### **Education**
 
 * 2018 - 2023 **Ph.D, Aerospace Structures, Indian Institute of Science**.
   <!-- * multi-physical properties prediction of fibre-reinforced composites using deep learning -->
-* 2012-2014 **M.Tech. in Machine Design, IIT Bombay** .
-* 2008-2012 **B.Tech. in Mechanical Engineering, JNTUH College of Engineering-Hyderabad**.
+* 2012 - 2014 **M.Tech. in Machine Design, IIT Bombay** .
+* 2008 - 2012 **B.Tech. in Mechanical Engineering, JNTUH College of Engineering-Hyderabad**.
 
 ### **Employment**
 
-* 2015-2017 **Assistant Professor** at Bapatla Engineering College, India
-* 2014-2015 **Post Graduate Engineer Trainee** at Mahindra Research Valley, Mahindra & Mahindra, Chennai, India.
+* Aug'2023 - Dec'2023: Developing twin-screw compressor rotor profiles using genertive AI.
+* July'2015 - Nov'2016: **Assistant Professor** at Bapatla Engineering College, India
+* Aug'2014 - June'2015: **Post Graduate Engineer Trainee** at Mahindra Research Valley, Mahindra & Mahindra, Chennai, India.
 
-Please check my [**latest resume, as on 18-June-2023**](/assets/pdf/resume_18062023.pdf)  (1 page).
+Please check my [**latest resume, as on 23-Sep-2023**](/assets/pdf/resume_23092023.pdf)  (2 pages).
