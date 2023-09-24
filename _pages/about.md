@@ -55,4 +55,4 @@ In my PhD thesis, titled<br/>
 * July'2015 - Nov'2016: **Assistant Professor** at Bapatla Engineering College, India
 * Aug'2014 - June'2015: **Post Graduate Engineer Trainee** at Mahindra Research Valley, Mahindra & Mahindra, Chennai, India.
 
-Please check my [**latest resume, as on 23-Sep-2023**](/assets/pdf/resume_23092023.pdf)  (2 pages).
+Please check my [**latest resume, as on 23-Sep-2023**](/assets/pdf/resume_24092023.pdf)  (2 pages).
