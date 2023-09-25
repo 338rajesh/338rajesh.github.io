@@ -3,14 +3,13 @@ github_users:
 
 github_repos:
   - 338rajesh/mpi-cnn
-  - 338rajesh/gmsh.jl
-  - 338rajesh/MakeAbaqusInputFile.jl
-  - 338rajesh/my-code-snippets
-  - 338rajesh/ucplots
-  - 338rajesh/FEMUCH.jl
-  - 338rajesh/UnitCellModelling.jl
-  - 338rajesh/geometry_box
   - 338rajesh/FEPreProcessing.jl
+  - 338rajesh/UnitCellModelling.jl
+  - 338rajesh/MakeAbaqusInputFile.jl
+  - 338rajesh/ucplots
+  - 338rajesh/my-code-snippets
+  - 338rajesh/gmsh.jl
+  - 338rajesh/geometry_box
   
   # - twbs/bootstrap
   # - jekyll/jekyll
