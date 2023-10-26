@@ -1,0 +1,2 @@
+to add a menu item,
+    add 'nav: true' in the header
