@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
  
  
  At present, I am working on a short project (developing twin-screw compressor profiles using generative AI) at City, University of London, which is expected to be completed by Dec'23.
-<span style="color: blue; font-weight: bold;">I am actively looking for a post-doctoral research position involving computational mechanics.</span> Please check my latest [<span style="color: blue; font-weight: bold;">CV</span>](/assets/pdf/resume_26102023.pdf), as on 26-Oct-2023  (2 pages).
+<span style="color: blue; font-weight: bold;">I am actively looking for a post-doctoral research position involving computational mechanics.</span> Please check my latest [<span style="color: blue; font-weight: bold;">CV</span>](/assets/pdf/resume_27102023.pdf), as on 27-Oct-2023  (2 pages).
 
 <br>
 
