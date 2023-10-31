@@ -13,7 +13,6 @@ nav: true
 
 ### **Compoiste materials RVE Generation**
 
-
 A computationally efficient algorithm is developed to generate virtual Representative Volume Element (RVE) of the composite materials, that can handle arbitrary inclusion geometries and higher inclusion volume fraction. 
 Generating RVEs with arbitrary inclusion shapes, involves a non-trivial problem of finding the overlap between non-circular or non-spherical geometries. To simplify this problem, we resort to divide-and-rule philosophy where the geometry of interest is represented as a union of circles or spheres as shown in below.
 
@@ -36,7 +35,12 @@ It starts with random initialisation of inclusions in the RVE domain while allow
   <br><br> Sample RVEs with various inclusion shapes, generated using this algorithm. 
 </p>
 
----
+For more details,  see the related publications:
++ [A computationally efficient approach for generating RVEs of various inclusion/fibre shapes](https://doi.org/10.1016/j.compstruct.2022.115560)
+
+<br>
+<hr style="border:2px solid gray">
+<br>
 
 ### **Influence of fibre cross-sectional profile on multi-physical properties of composite material**
 
@@ -59,7 +63,13 @@ $$\beta = \frac{P}{\sqrt{4 \pi A}} \in [0, 1]$$
 
 Effective material properties are evaluated using the computationally efficient homogenisation tool is developed in Julia language. It is based on a mathematically rigorous Variational Asymptotic Method and FEA based homogenisation tool along with my fellow PhD student A. Phaneendra, at NMCAD laboratory, IISc Bengaluru.
 
----
+For more details,  see the related publications:
++ [Influence of fibre cross-section profile on the multi-physical properties of uni-directional composites](https://doi.org/10.1016/j.compstruct.2023.117321)
+
+
+<br>
+<hr style="border:2px solid gray">
+<br>
 
 ### **A deep learning model to predict properties of composite material**
 
@@ -77,3 +87,10 @@ Though there were deep learning based models to predict properties from microstr
   <br>
 </p>
 A schematic representation of the material property encoding in a two-phase material. In (b) an encoded array is shown for a property with 10 units for matrix and 400 units for fibre, that is applicable for a system with properties in the range of [1, 500] units.
+
+For more details,  see the related publications:
++ [A generalised deep learning-based surrogate model for homogenisation utilising material property encoding and physics-based bounds](https://www.nature.com/articles/s41598-023-34823-3)
+
+<br>
+<hr style="border:2px solid gray">
+<br>
