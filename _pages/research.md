@@ -63,7 +63,7 @@ Effective material properties are evaluated using the computationally efficient 
 
 ### **A deep learning model to predict properties of composite material**
 
-Massive data sets are developed using the RVE generation algorithm and homogenisation tool. Then, a generalised surrogate deep learning CNN model is developed for predicting thermal and thermo-mechanical properties of fibre reinforced composites, with *fibre volume fractions and material systems spanning end-to-end practical range*. In the following image, we show the characteristics of the data set used for training the CNN model. These data sets are made availble to the community on [Zenodo](https://zenodo.org/records/8035643https://zenodo.org/records/8035643) and [Kaggle](https://www.kaggle.com/datasets/rajeshnakka/elastic-properties-of-fibre-reinforced-composites).
+Massive data sets are developed using the RVE generation algorithm and homogenisation tool. Then, a generalised surrogate deep learning CNN model is developed for predicting thermal and thermo-mechanical properties of fibre reinforced composites, with *fibre volume fractions and material systems spanning end-to-end practical range*. In the following image, we show the characteristics of the data set used for training the CNN model. These data sets are made availble to the community on [Zenodo](https://doi.org/10.5281/zenodo.8035643) and [Kaggle](https://www.kaggle.com/datasets/rajeshnakka/elastic-properties-of-fibre-reinforced-composites).
 
 <p align="center">
   <img width="800" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-023-34823-3/MediaObjects/41598_2023_34823_Fig2_HTML.png?as=webp">
