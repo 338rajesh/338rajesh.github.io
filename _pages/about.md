@@ -22,21 +22,21 @@ social: false  # includes social icons at the bottom of the page
 
 **Hello!**
 
- I am in the concluding stage of PhD (thesis under review) at Indian Institute of Science, Bengaluru, India. I enjoy working with mechanics and its computational aspects.
- At present, I am working on a short project (developing twin-screw compressor profiles using generative AI) at City, University of London, which is expected to be completed by Dec'23.
+ I have completed PhD in the structures division of aerospace engineering department, at the Indian Institute of Science, Bengaluru, India. I enjoy working with mechanics and its computational aspects.
+ At present, I am working on a short project (developing twin-screw compressor rotor profiles using generative deep learning) at City, University of London, which is expected to be completed by Mar'24.
 
 <span style="color: blue; font-weight: bold;">I am actively looking for a post-doctoral research position involving computational mechanics and/or physics informed deep learning.</span>
 
-Please check my latest [<span style="color: blue; font-weight: bold;">CV</span>](/assets/pdf/resume.pdf), as on 30-Oct-2023  (2 pages).
+Please check my latest [<span style="color: blue; font-weight: bold;">CV</span>](/assets/pdf/resume.pdf), as on 08-Jan-2024  (2 pages).
 
 <br>
 
 ### **Research Interests**
 
-* Computational mechanics
-* Physics informed deep learning
-* Mechanics of homogeneous and heterogeneous materials
-* Multi-scale modelling and analysis
+* Computational solid mechanics
+* Physics informed machine learning
+* Uncertainty quantification
+* Mechanics of heterogeneous materials
 
 <br>
 ### **Career Time Line**
