@@ -5,6 +5,8 @@ github_repos:
   - 338rajesh/gbox
   - 338rajesh/MakeAbaqusInputFile.jl
   - 338rajesh/mpi-cnn
+  - 338rajesh/clip
+  - 338rajesh/npi
   - 338rajesh/FEPreProcessing.jl
   - 338rajesh/UnitCellModelling.jl
   - 338rajesh/my-code-snippets

@@ -8,6 +8,8 @@ nav: true
 - [**Compoiste materials RVE Generation**](#compoiste-materials-rve-generation)
 - [**Influence of fibre cross-sectional profile on multi-physical properties of composite material**](#influence-of-fibre-cross-sectional-profile-on-multi-physical-properties-of-composite-material)
 - [**A deep learning model to predict properties of composite material**](#a-deep-learning-model-to-predict-properties-of-composite-material)
+- [**Inverse design of porous structures using generative adversarial networks**](#inverse-design-of-porous-structures-using-generative-adversarial-networks)
+- [**Design of twin screw compressor rotor profiles using generative adversarial networks**](#design-of-twin-screw-compressor-rotor-profiles-using-generative-adversarial-networks)
 
 ----
 
@@ -90,6 +92,35 @@ A schematic representation of the material property encoding in a two-phase mate
 
 For more details,  see the related publications:
 + [A generalised deep learning-based surrogate model for homogenisation utilising material property encoding and physics-based bounds](https://www.nature.com/articles/s41598-023-34823-3)
+
+<br>
+<hr style="border:2px solid gray">
+<br>
+
+
+### **Inverse design of porous structures using generative adversarial networks**
+
+A conditional GAN is developed to generate porous structures for a specified elastic and thermal conduction properties. 
+
+
+![Sample Porous Structures](/assets/img/porous_structures.png) 
+
+
+<p align="center">A sample set of porous structures used for training the GAN model.</p>
+
+<br>
+<hr style="border:2px solid gray">
+<br>
+
+### **Design of twin screw compressor rotor profiles using generative adversarial networks**
+
+Twin screw compressors are widely in the industry for pressurising the gases. I have developed a GAN model that can produce the similar but different profiles from that of the training set profiles. This project is funded and guided by centre for compressor technology at City, University of London.
+
+![Sample GAN generated rotor profiles](/assets/img/gan-generated-profile.png)
+
+<p align="center">
+A sample GAN generated profiles
+</p>
 
 <br>
 <hr style="border:2px solid gray">
