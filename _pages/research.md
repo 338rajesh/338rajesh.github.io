@@ -5,7 +5,7 @@ permalink: /research/
 nav: true
 ---
 
-- [**Compoiste materials RVE Generation**](#compoiste-materials-rve-generation)
+- [**Composite materials RVE Generation**](#compoiste-materials-rve-generation)
 - [**Influence of fibre cross-sectional profile on multi-physical properties of composite material**](#influence-of-fibre-cross-sectional-profile-on-multi-physical-properties-of-composite-material)
 - [**A deep learning model to predict properties of composite material**](#a-deep-learning-model-to-predict-properties-of-composite-material)
 - [**Inverse design of porous structures using generative adversarial networks**](#inverse-design-of-porous-structures-using-generative-adversarial-networks)
@@ -13,7 +13,7 @@ nav: true
 
 ----
 
-### **Compoiste materials RVE Generation**
+### **Composite materials RVE Generation**
 
 A computationally efficient algorithm is developed to generate virtual Representative Volume Element (RVE) of the composite materials, that can handle arbitrary inclusion geometries and higher inclusion volume fraction. 
 Generating RVEs with arbitrary inclusion shapes, involves a non-trivial problem of finding the overlap between non-circular or non-spherical geometries. To simplify this problem, we resort to divide-and-rule philosophy where the geometry of interest is represented as a union of circles or spheres as shown in below.
