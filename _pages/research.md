@@ -117,7 +117,7 @@ A conditional GAN is developed to generate porous structures for a specified ela
 Twin screw compressors are widely in the industry for pressurising the gases. I have developed a GAN model that can produce the similar but different profiles from that of the training set profiles. This project is funded and guided by centre for compressor technology at City, University of London.
 
 <p align="center">
-  <img width="460" height="300" src="/assets/img/gan-generated-profile.png">
+  <img width="460" height="400" src="/assets/img/gan-generated-profile.png">
 </p>
 
 <p align="center">
