@@ -21,14 +21,20 @@ social: false  # includes social icons at the bottom of the page
 
 **Hello!**
 
-<span style="color: blue; font-weight: bold;">I am actively looking for a post-doctoral research position involving computational mechanics and/or physics informed deep learning.</span> I am eager to learn, contribute, and grow within the high-performance computing community, particularly regarding their role in computational mechanics and deep learning to assist in solving complex engineering problems.
+Thanks for visiting my homepage. <span style="color: blue; font-weight: bold;">I am actively looking for a post-doctoral research position involving computational mechanics and/or physics informed deep learning, in research labs and academic institutions.</span>
+My research interests focus primarily on computational solid mechanics with a strong passion for coding. Also, I am interested in using the deep learning models as supporting tools for enhancing the reliability, computational efficiency of methods used in solving complex engineering problems. 
 
-I am currently working as an overseas postdoctoral consultant at City, University of London, focusing on the design of twin-screw compressor rotor profiles using generative deep learning. In this project, we are able to generate physically valid rotor profiles and this work is expected to be completed by the end of August 2024. During my PhD, I developed computationally efficient tools for generating rich datasets of composite material microstructures and their homogenization, utilizing Julia and Python extensively. I also developed CNN-based surrogate models to predict the multi-physical properties of material systems and fiber volume fractions over practical ranges.
+I am currently working as an overseas postdoctoral consultant at City, University of London, focusing on the design of twin-screw compressor rotor profiles using generative deep learning. In this project, we are able to generate physically valid rotor profiles and this work is expected to be completed by the end of August 2024. During my PhD, I developed computationally efficient tools for generating rich datasets of composite material microstructures and their homogenization, utilizing Julia and Python extensively. I also developed CNN-based surrogate models to predict the multi-physical properties of material systems and fiber volume fractions spanning over end-to-end practical ranges.
 
+**My Philosophy in Computational Mechanics and Coding**
 
-Please check my latest [<span style="color: blue; font-weight: bold;">CV</span>](/assets/pdf/resume.pdf), as on 01-Aug-2024  (3 pages).
++ I believe that mathematics is a indispensable tool for effective contributions in mechanics and deep learning. I want to contribute, learn, contribute with rigorous mathematics.
++ I like to keep the problem definitions and solutions as generic as possible so that a whole class of problems can be addressed simultaneously.
++ I enjoy writing lightweight code using a plug-and-play modular approach, making it transferable and extendable. I place equal importance on clear and concise documentation to ensure ease of use and collaboration
++ As a hobby, I enjoy building tools that replace everyday repetitive tasks. See, for example, [CLI with GUI](https://github.com/338rajesh/clip), [NumPy Inspector](https://github.com/338rajesh/npi), [Code-snippets](https://github.com/338rajesh/my-code-snippets)
++ I have moderate experience in the high-performance computing, and I am very keen to learn new things in this direction.
 
-<br>
+[<span style="color: blue; font-weight: bold;">My latest CV</span>](/cv.pdf), as on 19-Aug-2024  (3 pages).
 
 ### **Research Interests**
 
@@ -37,7 +43,6 @@ Please check my latest [<span style="color: blue; font-weight: bold;">CV</span>]
 * Uncertainty quantification
 * Mechanics of heterogeneous materials
 
-<br>
 ### **Career Time Line**
 
 * Aug'2023 - Aug'2024: **Post-doc**, at Centre for Compressor Technology, at City, University of London.
