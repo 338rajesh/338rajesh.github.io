@@ -98,7 +98,7 @@ For more details,  see the related publications:
 <br>
 
 
-### **Inverse design of porous structures using generative adversarial networks**
+### **Inverse design of porous structures using generative adversarial networks** [WIP]
 
 A conditional GAN is developed to generate porous structures for a specified elastic and thermal conduction properties. 
 
@@ -112,7 +112,7 @@ A conditional GAN is developed to generate porous structures for a specified ela
 <hr style="border:2px solid gray">
 <br>
 
-### **Design of twin screw compressor rotor profiles using generative adversarial networks**
+### **Design of twin screw compressor rotor profiles using generative adversarial networks** [WIP]
 
 Twin screw compressors are widely in the industry for pressurising the gases. I have developed a GAN model that can produce the similar but different profiles from that of the training set profiles. This project is funded and guided by centre for compressor technology at City, University of London.
 
