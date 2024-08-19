@@ -54,7 +54,7 @@ There was a consensus in literature that composite material properties increase 
 Among the various physical properties, here we show the variation of elastic properties with shape factor, $$\beta$$. Note that the property drops briefly at lower $$\beta$$, but a monotonic increase at higher $$\beta$$. On a side note, with a stiffer matrix a complete opposite behaviour is noticed where a slight rise followed by a monotonic decrease at higher $$\beta$$.
 
 <br>
-For this purpose, we have consdered five different non-circular shapes as shown below. A non-dimensional paramter $$\beta$$, defined as the ratio of the perimeter $$P$$ of the respective shape perimeter to that of the circle containing equivalent area $$A$$, is used to compare across the shapes.
+For this purpose, we have considered five different non-circular shapes as shown below. A non-dimensional parameter $$\beta$$, defined as the ratio of the perimeter $$P$$ of the respective shape perimeter to that of the circle containing equivalent area $$A$$, is used to compare across the shapes.
 
 $$\beta = \frac{P}{\sqrt{4 \pi A}} \in [0, 1]$$
 

@@ -11,6 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p style="text-align: center;>338rajesh[at]gmail.com</p>
+    <p style="text-align: center;>338rajesh[at]gmail.com</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
