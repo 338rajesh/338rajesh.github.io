@@ -111,7 +111,7 @@
 
           <article>
             <ul>
-  <li><a href="#compoiste-materials-rve-generation"><strong>Composite materials RVE Generation</strong></a></li>
+  <li><a href="#composite-materials-rve-generation"><strong>Composite materials RVE Generation</strong></a></li>
   <li><a href="#influence-of-fibre-cross-sectional-profile-on-multi-physical-properties-of-composite-material"><strong>Influence of fibre cross-sectional profile on multi-physical properties of composite material</strong></a></li>
   <li><a href="#a-deep-learning-model-to-predict-properties-of-composite-material"><strong>A deep learning model to predict properties of composite material</strong></a></li>
   <li><a href="#inverse-design-of-porous-structures-using-generative-adversarial-networks"><strong>Inverse design of porous structures using generative adversarial networks</strong></a></li>
@@ -127,12 +127,12 @@ Generating RVEs with arbitrary inclusion shapes, involves a non-trivial problem 
 
 <p align="center">
   <img width="800" src="https://ars.els-cdn.com/content/image/1-s2.0-S0263822322003452-gr3_lrg.jpg">
-  <br><br> Union of n-Spheres represenation of various inclusion shapes, which converts the overlap detection between a pair of non-circular/non-spherical inclusion shapes to the overlap detection between two groups of circles or spheres. 
+  <br><br> Union of n-Spheres representation of various inclusion shapes, which converts the overlap detection between a pair of non-circular/non-spherical inclusion shapes to the overlap detection between two groups of circles or spheres. 
 </p>
 <!-- 
-I have <ins>*developed an universal-overlap detection and removal scheme*</ins> between arbitray shapes is developed, as a part of generating RVEs with arbitrary inclusion shapes. In this part of work, I have learnt and used used geometry skills, in addition to the statistical analysis and micro-mechanical aspects. -->
+I have <ins>*developed an universal-overlap detection and removal scheme*</ins> between arbitrary shapes is developed, as a part of generating RVEs with arbitrary inclusion shapes. In this part of work, I have learnt and used used geometry skills, in addition to the statistical analysis and micro-mechanical aspects. -->
 
-<p>It starts with random initialisation of inclusions in the RVE domain while allowing overlaps. Then, a constrianed optimisation problem is defined with the magnitude of overlap as the cost to be minimised. I have used non-monotone spectral projection gradient (NMSPG) algorithm to solve the this problem, for which I have derived the gradient of the cost to gain the computational efficiency. In the following the flow-chart of the procedure, along with a generated RVE containing non-circular shapes.</p>
+<p>It starts with random initialisation of inclusions in the RVE domain while allowing overlaps. Then, a constrained optimisation problem is defined with the magnitude of overlap as the cost to be minimised. I have used non-monotone spectral projection gradient (NMSPG) algorithm to solve the this problem, for which I have derived the gradient of the cost to gain the computational efficiency. In the following the flow-chart of the procedure, along with a generated RVE containing non-circular shapes.</p>
 
 <p align="center">
   <img width="800" src="https://ars.els-cdn.com/content/image/1-s2.0-S0263822322003452-gr1_lrg.jpg">
@@ -164,7 +164,7 @@ I have <ins>*developed an universal-overlap detection and removal scheme*</ins> 
 <p>Among the various physical properties, here we show the variation of elastic properties with shape factor, \(\beta\). Note that the property drops briefly at lower \(\beta\), but a monotonic increase at higher \(\beta\). On a side note, with a stiffer matrix a complete opposite behaviour is noticed where a slight rise followed by a monotonic decrease at higher \(\beta\).</p>
 
 <p><br>
-For this purpose, we have consdered five different non-circular shapes as shown below. A non-dimensional paramter \(\beta\), defined as the ratio of the perimeter \(P\) of the respective shape perimeter to that of the circle containing equivalent area \(A\), is used to compare across the shapes.</p>
+For this purpose, we have considered five different non-circular shapes as shown below. A non-dimensional parameter \(\beta\), defined as the ratio of the perimeter \(P\) of the respective shape perimeter to that of the circle containing equivalent area \(A\), is used to compare across the shapes.</p>
 
 \[\beta = \frac{P}{\sqrt{4 \pi A}} \in [0, 1]\]
 
@@ -187,14 +187,14 @@ For this purpose, we have consdered five different non-circular shapes as shown 
 
 <h3 id="a-deep-learning-model-to-predict-properties-of-composite-material"><strong>A deep learning model to predict properties of composite material</strong></h3>
 
-<p>Massive data sets are developed using the RVE generation algorithm and homogenisation tool. Then, a generalised surrogate deep learning CNN model is developed for predicting thermal and thermo-mechanical properties of fibre reinforced composites, with <em>fibre volume fractions and material systems spanning end-to-end practical range</em>. In the following image, we show the characteristics of the data set used for training the CNN model. These data sets are made availble to the community on <a href="https://doi.org/10.5281/zenodo.8035643" rel="external nofollow noopener" target="_blank">Zenodo</a> and <a href="https://www.kaggle.com/datasets/rajeshnakka/elastic-properties-of-fibre-reinforced-composites" rel="external nofollow noopener" target="_blank">Kaggle</a>.</p>
+<p>Massive data sets are developed using the RVE generation algorithm and homogenisation tool. Then, a generalised surrogate deep learning CNN model is developed for predicting thermal and thermo-mechanical properties of fibre reinforced composites, with <em>fibre volume fractions and material systems spanning end-to-end practical range</em>. In the following image, we show the characteristics of the data set used for training the CNN model. These data sets are made available to the community on <a href="https://doi.org/10.5281/zenodo.8035643" rel="external nofollow noopener" target="_blank">Zenodo</a> and <a href="https://www.kaggle.com/datasets/rajeshnakka/elastic-properties-of-fibre-reinforced-composites" rel="external nofollow noopener" target="_blank">Kaggle</a>.</p>
 
 <p align="center">
   <img width="800" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-023-34823-3/MediaObjects/41598_2023_34823_Fig2_HTML.png?as=webp">
 </p>
 <p>Summary of the target values (or effective elastic properties) with respect to fibre volume fraction and fibre-matrix elastic moduli contrast, used for training the material property informed CNN model.</p>
 
-<p>Though there were deep learning based models to predict properties from microstructure images, therer was no efficient mechanism to learn material information. The previous models were able to map the structural fetures with the effective properties. Hence, in this work, we develop a simple mechanism is proposed based on the linear interpolation, to encode the constituent properties in the microstructure image.</p>
+<p>Though there were deep learning based models to predict properties from microstructure images, there was no efficient mechanism to learn material information. The previous models were able to map the structural features with the effective properties. Hence, in this work, we develop a simple mechanism is proposed based on the linear interpolation, to encode the constituent properties in the microstructure image.</p>
 
 <p align="center">
   <img width="600" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-023-34823-3/MediaObjects/41598_2023_34823_Fig4_HTML.png?as=webp">
@@ -229,7 +229,9 @@ For this purpose, we have consdered five different non-circular shapes as shown 
 
 <p>Twin screw compressors are widely in the industry for pressurising the gases. I have developed a GAN model that can produce the similar but different profiles from that of the training set profiles. This project is funded and guided by centre for compressor technology at City, University of London.</p>
 
-<p><img src="/assets/img/gan-generated-profile.png" alt="Sample GAN generated rotor profiles"></p>
+<p align="center">
+  <img width="460" height="300" src="/assets/img/gan-generated-profile.png">
+</p>
 
 <p align="center">
 A sample GAN generated profiles
