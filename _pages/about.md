@@ -34,13 +34,13 @@ I am currently working as an overseas consultant at City, University of London, 
 
 **My Philosophy Towards Computational Mechanics and Coding**
 
-+ I believe that mathematics is a indispensable tool for effective contributions in mechanics and deep learning. I want to contribute, learn and grow through application of mathematics. 
++ I believe that mathematics is a indispensable tool for making effective contributions in mechanics. I want to contribute, learn and grow through application of mathematics. 
 + I like to work on problems that are as generic as possible so that a whole class of problems can be addressed simultaneously.
 + I enjoy writing lightweight code using a plug-and-play modular approach, making it transferable and extendable. I appreciate the importance of clear and concise documentation in easier and effective collaboration.
 + As a hobby, I enjoy building tools that replace everyday repetitive tasks. See, for example, [CLI with GUI](https://github.com/338rajesh/clip), [NumPy Inspector](https://github.com/338rajesh/npi), [Code-snippets](https://github.com/338rajesh/my-code-snippets)
 + I appreciate the crucial role of parallel and high performance computing. As a system administrator of Rocks cluster during my PhD, I gained working experience in high-performance computing, and I am very keen to learn new things in this direction.
 
-[<span style="color: blue; font-weight: bold;">My latest CV</span>](/cv.pdf), as on 19-Aug-2024  (3 pages).
+[<span style="color: blue; font-weight: bold;">My latest CV</span>](/cv.pdf), as on 22-Aug-2024  (3 pages).
 
 ### **Research Interests**
 
