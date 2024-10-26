@@ -24,9 +24,12 @@ social: false  # includes social icons at the bottom of the page
 
 Thanks for visiting my homepage.
 
-**I am actively looking for industrial R\&D engineering, involving computational mechanics and coding. Please find my latest [CV Here](/cv.pdf)** 
+<!-- **I am actively looking for industrial R\&D engineering, involving computational mechanics and coding. Please find my latest [CV Here](/cv.pdf)**  -->
 
-I hold a PhD with expertise in computational mechanics, software development and deep learning. Skilled in Finite Element Analysis (FEA), Python, Julia, Git, and HPC parallel computing, with a strong focus on applying academic research to practical industrial R \& D solutions. Ready to leverage academic rigour and innovative thinking in a dynamic industrial research environment.
+I am working as an R\&D Engineer at [Synopsis](https://www.synopsys.com/).
+
+I hold a PhD with expertise in computational mechanics, software development and deep learning. Skilled in Finite Element Analysis (FEA), Python, Julia, Git, and HPC parallel computing, with a strong focus on applying academic research to practical industrial R \& D solutions. 
+<!-- Ready to leverage academic rigour and innovative thinking in a dynamic industrial research environment. -->
 
 
 *My Philosophy Towards Computational Mechanics and Coding*
@@ -48,10 +51,21 @@ I hold a PhD with expertise in computational mechanics, software development and
 
 ### **Career Time Line**
 
-* Aug'2023 - Sep'2024: **Research Consultant**, at Centre for Compressor Technology, at City, University of London.
-* Aug'2018 - Mar'2024: **Ph.D, at Indian Institute of Science, Bengaluru**.
+* Oct'2024 - present: **R\&D Engineer** at [Synopsis](https://www.synopsys.com/)
+* Aug'2023 - Sep'2024: **Research Consultant**, at [Centre for Compressor Technology](https://researchcentres.city.ac.uk/thermo-fluids/compressor-technology), at City, University of London.
+* Aug'2018 - Mar'2024: **Ph.D, at [Indian Institute of Science, Bengaluru](https://iisc.ac.in/)**.
 * Jan'2017 - Jul'2018: Break
 * Jul'2015 - Dec'2016: **Assistant Professor** at Bapatla Engineering College, India
-* Aug'2014 - Jun'2015: **Post Graduate Engineer Trainee** at Mahindra Research Valley, Mahindra & Mahindra, Chennai, India.
-* Aug'2012 - Jul'2014: **M.Tech. in Machine Design, IIT Bombay** .
-* Aug'2008 - Jul'2012: **B.Tech. in Mechanical Engineering, JNTUH College of Engineering-Hyderabad**.
+* Aug'2014 - Jun'2015: **Post Graduate Engineer Trainee** at [Mahindra Research Valley](https://www.mahindra.com/blogs/mahindra-research-valley-becoming-future-ready), Mahindra & Mahindra, Chennai, India.
+* Aug'2012 - Jul'2014: **M.Tech. in [Machine Design](https://www.me.iitb.ac.in/), IIT Bombay** .
+* Aug'2008 - Jul'2012: **B.Tech. in [Mechanical Engineering](https://jntuhceh.ac.in/viewdept/3), JNTUH College of Engineering-Hyderabad**.
+
+
+</br> </br> 
+
+----
+</br> 
+
+Last Updated: Oct 25, 2024.
+
+PS: I may not update this page often. Please contact me if you have any  questions/comments.
