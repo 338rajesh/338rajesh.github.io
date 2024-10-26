@@ -26,7 +26,7 @@ Thanks for visiting my homepage.
 
 <!-- **I am actively looking for industrial R\&D engineering, involving computational mechanics and coding. Please find my latest [CV Here](/cv.pdf)**  -->
 
-I am working as an R\&D Engineer at [Synopsis](https://www.synopsys.com/).
+I am working as an R&D Engineer at [Synopsis](https://www.synopsys.com/).
 
 I hold a PhD with expertise in computational mechanics, software development and deep learning. Skilled in Finite Element Analysis (FEA), Python, Julia, Git, and HPC parallel computing, with a strong focus on applying academic research to practical industrial R \& D solutions. 
 <!-- Ready to leverage academic rigour and innovative thinking in a dynamic industrial research environment. -->
@@ -51,7 +51,7 @@ I hold a PhD with expertise in computational mechanics, software development and
 
 ### **Career Time Line**
 
-* Oct'2024 - present: **R\&D Engineer** at [Synopsis](https://www.synopsys.com/)
+* Oct'2024 - present: **R&D Engineer** at [Synopsis](https://www.synopsys.com/)
 * Aug'2023 - Sep'2024: **Research Consultant**, at [Centre for Compressor Technology](https://researchcentres.city.ac.uk/thermo-fluids/compressor-technology), at City, University of London.
 * Aug'2018 - Mar'2024: **Ph.D, at [Indian Institute of Science, Bengaluru](https://iisc.ac.in/)**.
 * Jan'2017 - Jul'2018: Break
@@ -61,11 +61,9 @@ I hold a PhD with expertise in computational mechanics, software development and
 * Aug'2008 - Jul'2012: **B.Tech. in [Mechanical Engineering](https://jntuhceh.ac.in/viewdept/3), JNTUH College of Engineering-Hyderabad**.
 
 
-</br> </br> 
 
 ----
-</br> 
 
-Last Updated: Oct 25, 2024.
+*Last Updated: Oct 25, 2024.*
 
-PS: I may not update this page often. Please contact me if you have any  questions/comments.
+***PS: I may not update this page often. Please contact me if you have any  questions/comments.***
