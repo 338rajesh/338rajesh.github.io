@@ -51,7 +51,7 @@ I hold a PhD with expertise in computational mechanics, software development and
 
 ### **Career Time Line**
 
-* Oct'2024 - present: **R&D Engineer** at [Synopsis](https://www.synopsys.com/)
+* Oct'2024 - present: **R&D Engineer** at [Synopsys](https://www.synopsys.com/)
 * Aug'2023 - Sep'2024: **Research Consultant**, at [Centre for Compressor Technology](https://researchcentres.city.ac.uk/thermo-fluids/compressor-technology), at City, University of London.
 * Aug'2018 - Mar'2024: **Ph.D, at [Indian Institute of Science, Bengaluru](https://iisc.ac.in/)**.
 * Jan'2017 - Jul'2018: Break
@@ -64,6 +64,4 @@ I hold a PhD with expertise in computational mechanics, software development and
 
 ----
 
-*Last Updated: Nov 22, 2024.*
-
-***PS: I may not update this page often. Please contact me if you have any questions/comments.***
+*Last Updated: Apr 06, 2025.*
