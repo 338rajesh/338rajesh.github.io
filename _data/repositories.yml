@@ -3,12 +3,6 @@ github_users:
 
 github_repos:
   - 338rajesh/gbox
-  - 338rajesh/MakeAbaqusInputFile.jl
-  - 338rajesh/mpi-cnn
-  - 338rajesh/clip
-  - 338rajesh/npi
-  - 338rajesh/FEPreProcessing.jl
-  - 338rajesh/UnitCellModelling.jl
-  - 338rajesh/my-code-snippets
-  - 338rajesh/gmsh.jl
- 
+  - 338rajesh/shapeforge
+  - 338rajesh/cache
+  - 338rajesh/UnitCellGenerator.jl
